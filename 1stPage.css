@@ -1,0 +1,33 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	}
+
+
+.main_image{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left:0;
+    z-index: -10;
+    opacity: 0.9;
+}
+
+
+.welcome{
+ margin:8%;
+ background-color: darkcyan;
+ opacity: 0.7;
+ color: rgba(245, 245, 245, 0.8);
+ font-size: 40px;
+}
+
+.widget{
+  margin: 10%;
+  font-size: 40px;
+  background-color: black;
+  opacity:0.7;
+  color: rgba(245, 245, 245, 0.8);
+}
